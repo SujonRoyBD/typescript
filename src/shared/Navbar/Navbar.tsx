@@ -60,7 +60,7 @@ export function Navbar() {
       <div>
         <CiMenuBurger />
       </div>
-      <div className=" border-red-500">
+      <div className="border-2 border-red-500">
         <NavigationMenu viewport={false}>
           <NavigationMenuList>
             <NavigationMenuItem>
