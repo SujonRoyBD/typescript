@@ -55,7 +55,7 @@ const components: { title: string; href: string; description: string }[] = [
 
 export function Navbar() {
   return (
-    <div className="flex  justify-between">
+    <div className="flex items-center justify-between">
       {/* logo  */}
       <div>
         <CiMenuBurger />
